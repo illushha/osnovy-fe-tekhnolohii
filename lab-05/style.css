@@ -1,11 +1,15 @@
-﻿.examples { display:grid; gap: 1rem; grid-template-columns: repeat(auto-fit,minmax(min(100%,25rem),1fr)); }
+.examples { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
 .examples .panel { margin: 0; }
-.field { display:block; margin-bottom: .65rem; border-left: 3px solid transparent; padding: 0 .5rem; }
-.field input { display:block; width: 100%; border: 1px solid #8b9f96; border-radius: .3rem; padding: .35rem .5rem; margin: .2rem 0; }
-.field small { display:block; color: #50665c; }
-.field.invalid { border-color: #a92b38; background: #fff1f0; }
-.field.invalid input { border-color: #a92b38; }
-table { margin-top: 1rem; width: 100%; border-collapse: collapse; table-layout: fixed; text-align: center; }
-td { height: 2.65rem; border: 1px solid #a0b2a9; }
-td.target { border: 3px solid #165a50; font-weight: 800; cursor: pointer; }
+.field { display: block; margin-bottom: 8px; padding: 0 5px; }
+.field input { display: block; width: 100%; padding: 4px; }
+.field small { color: #555; }
+.field.invalid { background: #ffe6e6; }
+.field.invalid input { border: 1px solid #b42323; }
+table { margin-top: 12px; width: 100%; border-collapse: collapse; table-layout: fixed; text-align: center; }
+td { height: 38px; border: 1px solid #aaa; }
+td.target { border: 2px solid #174785; font-weight: bold; cursor: pointer; }
 #palette { vertical-align: middle; }
+
+@media (max-width: 660px) {
+  .examples { grid-template-columns: 1fr; }
+}

@@ -1,10 +1,10 @@
-﻿.profile-top p { margin: .35rem 0 .6rem; }
-.interests { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 1rem; }
-.interests h3 { margin: 0; }
-.profile-photo { width: min(100%, 34rem); }
-.profile-photo img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; object-position: center 40%; border-radius: .6rem; }
-.controls { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .9rem; }
-[data-order].active { background: #214a86; color: #fff; }
+.profile-top p { margin: 5px 0 10px; }
+.interests { display: flex; flex-wrap: wrap; column-gap: 44px; }
+.interests h3 { margin: 12px 0 0; }
+.interests ul, .interests ol { margin-top: 4px; }
+.profile-photo { width: min(100%, 544px); }
+.profile-photo img { width: 100%; height: auto; }
+.controls { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+[data-order].active { background: #214a86; color: white; }
 [data-order][tabindex] { cursor: pointer; }
-.profile-note { font-size: .92rem; color: #50665c; }
-.profile-top h2, .city h2 { margin-top: 0; }
+.profile-note { font-size: 14px; }
