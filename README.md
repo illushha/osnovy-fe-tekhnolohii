@@ -2,6 +2,21 @@
 
 Локотош Ілля Миколайович, ІО-41. Номер за загальним списком — 74.
 
+## Опубліковані лабораторні
+
+[Головна сторінка](https://illushha.github.io/osnovy-fe-tekhnolohii/)
+
+| Робота | Код | Сторінка |
+| --- | --- | --- |
+| №1 Сторінка автора в HTML5 | [Код](lab-01/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-01/) |
+| №2 Таблиці та CSS-трансформації | [Код](lab-02/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-02/) |
+| №3 Верстка Float і Flex | [Код](lab-03/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-03/) |
+| №4 Події та керування зображенням | [Код](lab-04/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-04/) |
+| №5 Регулярні вирази та палітра | [Код](lab-05/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-05/) |
+| №6 Запит до Random User API | [Код](lab-06/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-06/) |
+| №7 Профіль і галерея в React | [Код](lab-07/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-07/) |
+| №8 Адаптивна верстка за макетом | [Код](lab-08/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-08/) |
+
 ## Варіанти
 
 Формула для таблиць і переліків: `(74 - 1) % кількість_варіантів + 1`.
