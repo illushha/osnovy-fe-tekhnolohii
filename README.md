@@ -8,14 +8,14 @@
 
 | Робота | Код | Сторінка | Звіт |
 | --- | --- | --- | --- |
-| №1 Сторінка автора в HTML5 | [Код](lab-01/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-01/) | [PDF](reports/ЛР-01_ІО-41_Локотош.pdf) |
-| №2 Таблиці та CSS-трансформації | [Код](lab-02/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-02/) | [PDF](reports/ЛР-02_ІО-41_Локотош.pdf) |
-| №3 Верстка Float і Flex | [Код](lab-03/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-03/) | [PDF](reports/ЛР-03_ІО-41_Локотош.pdf) |
-| №4 Події та керування зображенням | [Код](lab-04/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-04/) | [PDF](reports/ЛР-04_ІО-41_Локотош.pdf) |
-| №5 Регулярні вирази та палітра | [Код](lab-05/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-05/) | [PDF](reports/ЛР-05_ІО-41_Локотош.pdf) |
-| №6 Запит до Random User API | [Код](lab-06/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-06/) | [PDF](reports/ЛР-06_ІО-41_Локотош.pdf) |
-| №7 Профіль і галерея в React | [Код](lab-07/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-07/) | [PDF](reports/ЛР-07_ІО-41_Локотош.pdf) |
-| №8 Адаптивна верстка за макетом | [Код](lab-08/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-08/) | [PDF](reports/ЛР-08_ІО-41_Локотош.pdf) |
+| №1 Сторінка автора в HTML5 | [Код](lab-01/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-01/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб1-Вар74.pdf) |
+| №2 Таблиці та CSS-трансформації | [Код](lab-02/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-02/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб2-Вар74.pdf) |
+| №3 Верстка Float і Flex | [Код](lab-03/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-03/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб3-Вар74.pdf) |
+| №4 Події та керування зображенням | [Код](lab-04/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-04/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб4-Вар74.pdf) |
+| №5 Регулярні вирази та палітра | [Код](lab-05/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-05/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб5-Вар74.pdf) |
+| №6 Запит до Random User API | [Код](lab-06/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-06/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб6-Вар74.pdf) |
+| №7 Профіль і галерея в React | [Код](lab-07/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-07/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб7-Вар74.pdf) |
+| №8 Адаптивна верстка за макетом | [Код](lab-08/) | [Відкрити](https://illushha.github.io/osnovy-fe-tekhnolohii/lab-08/) | [PDF](reports/ІО41-Локотош-Ілля-Лаб8-Вар74.pdf) |
 
 ## Варіанти
 
