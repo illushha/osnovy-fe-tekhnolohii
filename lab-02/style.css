@@ -1,0 +1,10 @@
+﻿.drawings { display:flex; flex-wrap:wrap; gap:2rem; }
+.drawing { display:grid; width:135px; height:135px; color:#131819; }
+.drawing i { display:block; }
+.drawing i:nth-child(1) { --x:28px; --y:28px; width:79px; height:79px; border:9px solid; border-radius:50%; }
+.drawing i:nth-child(2) { --x:54px; --y:54px; width:27px; height:27px; border-radius:50%; background:currentColor; }
+.drawing i:nth-child(3) { --x:22px; --y:66px; width:91px; height:3px; background:currentColor; }
+.drawing i:nth-child(4) { --x:66px; --y:22px; width:3px; height:91px; background:currentColor; }
+.position { position:relative; }
+.position i { position:absolute; left:var(--x); top:var(--y); }
+.transform i { grid-area:1 / 1; transform:translate(var(--x),var(--y)); }

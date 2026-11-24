@@ -1,0 +1,32 @@
+{
+  "name": "Локотош Ілля Миколайович",
+  "group": "ІО-41",
+  "variant": 74,
+  "provisional": false,
+  "birthDate": "28 лютого",
+  "birthCity": "Київ",
+  "school": "школа №6",
+  "university": "КПІ ім. Ігоря Сікорського",
+  "hobbies": [
+    "Футбол",
+    "Пейнтбол",
+    "Волейбол"
+  ],
+  "favorites": [
+    "Зелена книга",
+    "Веном",
+    "Воно"
+  ],
+  "books": [
+    "Розмова з Богом",
+    "Атомні звички"
+  ],
+  "city": "Варшава",
+  "cityDescription": "Моє улюблене місто — Варшава. У Старому місті варто прогулятися від Замкової площі до Ринкової площі, де історичні кам’яниці оточують відкритий простір.",
+  "cityUrl": "https://um.warszawa.pl/en/",
+  "cityNote": "",
+  "photoAlt": "Ринкова площа Старого міста у Варшаві",
+  "photoCredit": "Igor123121",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Old_Town_Market_Square.,_2026,_Warsaw,_Poland.jpg",
+  "photoLicense": "https://creativecommons.org/licenses/by/4.0/"
+}
